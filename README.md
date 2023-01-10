@@ -12,7 +12,7 @@ Another major problem that faced is processing of large batches. Often, training
 
 # Observations
 
-The main observations were: better generalization performance compared to a fixed batch size approach, and this method achieves a training accuracy of 92% in 50 epochs.
+The main observations were: better generalization performance compared to a fixed batch size approach, and this method achieves a training accuracy of 87.89% in 50 epochs.
 
 # References
 
